@@ -1,5 +1,5 @@
 {
-  "name": "gcs-utils",
+  "name": "@mourasman/gcs-utils",
   "version": "1.0.0",
   "description": "A module that contains misc functions regarding GCS (Google Cloud Storage)",
   "main": "index.js",
